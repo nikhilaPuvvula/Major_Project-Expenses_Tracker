@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972239047465",
+    "project_id": "etracker-96a91",
+    "storage_bucket": "etracker-96a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972239047465:android:52f9dff7e4858463a7c538",
+        "android_client_info": {
+          "package_name": "com.example.expenses_tracker_project_stage1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEMTPheDdXRZUARhnCQ2TO8k8_odE6iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
